@@ -10,6 +10,20 @@ _This module is contains "garnish" helpers -- helpers prefixed with a `g-` --
 for various CSS resets._
 
 
+## Installation
+
+Installing with `npm`:
+
+```bash
+npm install ticketfly-css-reset-garnishes
+```
+
+Installing with `yarn`:
+
+```bash
+yarn add ticketfly-css-reset-garnishes
+```
+
 
 [npm-badge]: https://img.shields.io/npm/v/ticketfly-css-reset-garnishes.svg
 [npm-badge-url]: https://www.npmjs.com/package/ticketfly-css-reset-garnishes
