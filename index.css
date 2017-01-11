@@ -6,5 +6,5 @@
 
 .g-link-reset {
   text-decoration: none;
-  color: initial;
+  color: inherit;
 }
