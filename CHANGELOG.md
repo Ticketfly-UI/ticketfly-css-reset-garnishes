@@ -1,3 +1,7 @@
+# 0.2.0 &mdash; January 10, 2017
+
+- **[BREAKING CHANGE]** `.g-link-rest` now unsets color if supported ([#2](https://github.com/Ticketfly-UI/ticketfly-css-reset-garnishes/pull/2)).
+
 # 0.1.1 &mdash; January 10, 2017
 
 - Bump version to fix erroneous 0.1.0 release.
@@ -11,7 +15,7 @@
 
 # 0.0.1 &mdash; December 28, 2016
 
-- **[ADDITION]**: Initial project setup
+- **[ADDITION]** Initial project setup
   + Initial ruleset
   + Initial demo page
 
