@@ -7,4 +7,7 @@
 .g-link-reset {
   text-decoration: none;
   color: inherit;
+
+  /* use `unset` if supported */
+  color: unset; /* stylelint-disable-line declaration-block-no-duplicate-properties */
 }
